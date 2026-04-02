@@ -75,15 +75,13 @@
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ali-Haider05&show_icons=true&theme=dark&bg_color=0A192F&title_color=FFD700&icon_color=FFD700&text_color=ffffff&border_color=B8860B"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ali-Haider05&theme=dark&background=0A192F&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&border=B8860B)](https://git.io/streak-stats)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Haider05&layout=compact&theme=dark&bg_color=0A192F&title_color=FFD700&text_color=ffffff&border_color=B8860B"/>
+![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ali-Haider05&show_icons=true&theme=tokyonight&hide_border=false)
 
 </div>
-
 ---
 
 ## 🎯 2025–2026 Goals
