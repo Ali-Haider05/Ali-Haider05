@@ -21,19 +21,13 @@
 
 ## 🧠 About Me
 
-```python
-ali = {
-    "name"       : "Syed Ali Haider",
-    "university" : "BIIT University, Rawalpindi",
-    "batch"      : "2025–2029",
-    "semester"   : 2,
-    "location"   : "Wah Cantt, Pakistan 🇵🇰",
-    "goal"       : "AI / ML Engineer 🤖",
-    "cgpa"       : 3.85,
-    "hobbies"    : ["Coding", "Exploring AI Tools", "Problem Solving"],
-}
-```
-
+👤 **Name:** Syed Ali Haider
+🎓 **University:** BIIT University, Rawalpindi
+📅 **Batch:** 2025 – 2029 · 2nd Semester
+📍 **Location:** Wah Cantt, Pakistan 🇵🇰
+🎯 **Goal:** AI / ML Engineer 🤖
+⭐ **CGPA:** 3.85
+💡 **Hobbies:** Coding · Exploring AI Tools · Problem Solving
 ---
 
 ## 🚀 Tech Stack
