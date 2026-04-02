@@ -21,13 +21,13 @@
 
 ## 🧠 About Me
 
-👤 **Name:** Syed Ali Haider<br>
-🎓 **University:** BIIT University, Rawalpindi<br>
+👤 **Name:**  Syed Ali Haider<br>
+🎓 **University:**  BIIT University, Rawalpindi<br>
 📅 **Batch:** 2025 – 2029 · 2nd Semester<br>
-📍 **Location:** Wah Cantt, Pakistan 🇵🇰<br>
-🎯 **Goal:** AI / ML Engineer 🤖<br>
-⭐ **CGPA:** 3.85<br>
-💡 **Hobbies:** Coding · Exploring AI Tools · Problem Solving<br>
+📍 **Location:**  Wah Cantt, Pakistan 🇵🇰<br>
+🎯 **Goal:**  AI / ML Engineer 🤖<br>
+⭐ **CGPA:**  3.85<br>
+💡 **Hobbies:**  Coding · Exploring AI Tools · Problem Solving<br>
 ---
 
 ## 🚀 Tech Stack
