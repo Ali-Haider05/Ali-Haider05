@@ -79,7 +79,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ali-Haider05&theme=dark&background=0A192F&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&border=B8860B)](https://git.io/streak-stats)
 
-![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ali-Haider05&show_icons=true&theme=tokyonight&hide_border=false)
 
 </div>
 ---
