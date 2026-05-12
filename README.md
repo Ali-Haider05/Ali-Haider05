@@ -21,13 +21,13 @@
 
 ## 🧠 About Me
 
-👤 **Name:**  Syed Ali Haider<br>
-🎓 **University:**  BIIT University, Rawalpindi<br>
-📅 **Batch:** 2025 – 2029 · 2nd Semester<br>
-📍 **Location:**  Wah Cantt, Pakistan 🇵🇰<br>
-🎯 **Goal:**  AI / ML Engineer 🤖<br>
-⭐ **CGPA:**  3.85<br>
-💡 **Hobbies:**  Coding · Exploring AI Tools · Problem Solving<br>
+👤 **Name:** Syed Ali Haider<br>
+🎓 **University:** BIIT University, Rawalpindi<br>
+📅 **Batch:** 2025 – 2029<br>
+📍 **Location:** Wah Cantt, Pakistan 🇵🇰<br>
+🎯 **Goal:** AI / ML Engineer 🤖<br>
+💡 **Hobbies:** Coding · Exploring AI Tools · Problem Solving<br>
+
 ---
 
 ## 🚀 Tech Stack
@@ -75,12 +75,13 @@
 ---
 
 ## 📊 GitHub Stats
+
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ali-Haider05&theme=dark&background=0A192F&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&border=B8860B)](https://git.io/streak-stats)
 
-
 </div>
+
 ---
 
 ## 🎯 2025–2026 Goals
