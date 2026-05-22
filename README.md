@@ -43,7 +43,7 @@
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-0A192F?style=for-the-badge&logo=github&logoColor=FFD700)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![ModelSim](https://img.shields.io/badge/ModelSim-0A192F?style=for-the-badge&Intel&logoColor=FFD700)
+![ModelSim](https://img.shields.io/badge/ModelSim-0A192F?style=for-the-badge&logo=intel&logoColor=FFD700)
 
 ### Currently Learning
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge&logo=tensorflow&logoColor=0A192F)
@@ -83,9 +83,9 @@
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ali-Haider05&theme=dark&background=0A192F&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&border=B8860B)](https://git.io/streak-stats)
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=Ali-Haider05&show_icons=true&theme=tokyonight&count_private=true&background=0A192F&title_color=FFD700&text_color=white&icon_color=FFD700&border_color=B8860B" alt="Ali Haider's GitHub Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Haider05&layout=compact&theme=tokyonight&background=0A192F&title_color=FFD700&text_color=white&border_color=B8860B" alt="Top Languages" height="150" />
+<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ali-Haider05&show_icons=true&theme=dark&bg_color=0A192F&title_color=FFD700&text_color=ffffff&icon_color=FFD700&border_color=B8860B&count_private=true" alt="Ali Haider's GitHub Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Haider05&layout=compact&theme=dark&bg_color=0A192F&title_color=FFD700&text_color=ffffff&border_color=B8860B" alt="Top Languages" height="150" />
 
 </div>
 
