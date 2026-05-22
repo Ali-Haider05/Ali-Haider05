@@ -1,16 +1,13 @@
 <div align="center">
 
-<!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A192F,B8860B&height=200&section=header&text=Syed%20Ali%20Haider&fontSize=50&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%20%2F%20ML%20Engineer%20%7C%20CS%20Student&descAlignY=55&descColor=B8860B"/>
 
-<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+BIIT;Aspiring+AI+%2F+ML+Engineer;Java+OOP+%7C+Python+%7C+SQL;Building+cool+stuff+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Social Badges -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=google-chrome&logoColor=0A192F)](https://ali-haider05.github.io/portfolio)
 [![GitHub](https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/Ali-Haider05)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=FFD700)](https://linkedin.com/in/ali-haider05)
@@ -46,7 +43,7 @@
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-0A192F?style=for-the-badge&logo=github&logoColor=FFD700)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![ModelSim](https://img.shields.io/badge/ModelSim-0A192F?style=for-the-badge&logo=intel&logoColor=FFD700)
+![ModelSim](https://img.shields.io/badge/ModelSim-0A192F?style=for-the-badge&Intel&logoColor=FFD700)
 
 ### Currently Learning
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge&logo=tensorflow&logoColor=0A192F)
@@ -58,6 +55,13 @@
 ---
 
 ## 📂 Featured Projects
+
+### ⚡ ToolZap — Privacy-First Web Utilities *(Live Platform)*
+> A complete open-source, serverless browser-based file manager application built to handle high-speed data format parsing locally.
+> - **📄 Document Processing:** Word to PDF, text extraction, dynamic merge and split engines.
+> - **🖼️ Batch Graphics:** Local image optimizer, bulk format converters (JPG ⇄ PNG), custom resizer.
+> - **🔒 Privacy First:** 100% client-side data operations. Zero file footprint on servers.
+> 🔗 **Live Web:** [alihaiderdev.me/toolzap](https://alihaiderdev.me/toolzap/) | **Repo:** [github.com/Ali-Haider05/toolzap](https://github.com/Ali-Haider05/toolzap)
 
 ### 🏫 University Management System *(Java OOP)*
 > A full OOP-based system with abstract `Person` class, `Student`, `Teacher`, `Faculty`, `Admin` subclasses, and `Payable`, `Gradeable`, `Researchable` interfaces — applying Runtime Polymorphism, Abstract Classes & Interfaces.
@@ -74,17 +78,20 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ali-Haider05&theme=dark&background=0A192F&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&border=B8860B)](https://git.io/streak-stats)
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ali-Haider05&show_icons=true&theme=tokyonight&count_private=true&background=0A192F&title_color=FFD700&text_color=white&icon_color=FFD700&border_color=B8860B" alt="Ali Haider's GitHub Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Haider05&layout=compact&theme=tokyonight&background=0A192F&title_color=FFD700&text_color=white&border_color=B8860B" alt="Top Languages" height="150" />
 
 </div>
 
 ---
 
-## 🎯 2025–2026 Goals
+## 🎯 2026 Goals
 
 - [ ] 🤖 Start Machine Learning with Python (Scikit-learn, TensorFlow)
 - [ ] 📦 Master Java Collections Framework
